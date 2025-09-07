@@ -1,8 +1,2 @@
-{"placeholder":"switch_case","values":{"value":"{"placeholder":"realtimemonth"}:{"placeholder":"realtimeday"}","cases":"06:05:
-
-The Test has worked!,
-
-*:Default text for other days","default":
 Brendon Approved!
 Kal Smells!
-}}
