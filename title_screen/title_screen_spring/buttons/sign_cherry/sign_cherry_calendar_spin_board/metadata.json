@@ -1,4 +1,7 @@
 {
   "loop_count": 1,
   "frame_time": 16.66666,
+  "frame_time_intro": 0,
+  "custom_frame_times": {
+  },
 }
